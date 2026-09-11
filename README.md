@@ -1,14 +1,11 @@
-# ListyCity - Lab 2
+# CMPUT 301: Lab 2 Participation Exercise
 
 ## Student Details
-Name: Siddh Patel  
-Course: CMPUT 301  
-Lab: Lab 2
+- **Full Name:** `<Siddh Patel>`
+- **CCID:** `<siddh1>`
 
 ## References and Resources
-- CMPUT 301 Lab 2 Instructions
-- CMPUT 301 Lab 2 Android Basics
-- CMPUT 301 Lab 2 ListyCity Example
+CMPUT 301 Lab 02 Instructions
 
 ## Verbal Collaboration
-No verbal collaboration.
+Abhishek Shah, arshah2
